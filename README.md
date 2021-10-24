@@ -1,2 +1,2 @@
 # prathap
-first add the git comands to the repository
+prathap repo for git comands demonstration
